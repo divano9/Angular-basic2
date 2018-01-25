@@ -1,0 +1,32 @@
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+
+a:hover{
+    text-decoration: none !important;
+}
+html{
+    font-size: 14px;
+}
+img{
+    max-width: 100%;
+}
+
+.inspire{
+    padding: 65px 0 100px;
+}
+
+.inspire figure img{
+    border-radius: 15px;
+}
+
+.social a:hover .fa{
+    color: green !important;
+}
+.features{
+    padding: 30px 0;
+}
+
+p{
+  color: teal;
+}

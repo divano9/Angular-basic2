@@ -1,0 +1,25 @@
+.navbar-nav{
+    box-shadow: 0 0 5px #000;
+}
+.navbar-nav li{
+    border-bottom: 1px solid #000;
+}
+.navbar-nav li a.nav-link{
+    padding: 10px !important;
+    transition: 0.5s linear;
+    color:#000 !important;
+    font-size: 20px;
+}
+.dropdown-menu{
+    background: transparent;
+    padding: 0;
+    border:0;
+}
+
+.navbar-nav .nav-link:hover, .navbar-nav li.active .nav-link{
+    background: #fff !important;
+    font-weight: bold;
+}
+.navbar-toggler{
+    border:1px solid #000 !important;
+}
